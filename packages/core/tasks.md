@@ -103,3 +103,5 @@ then these modules are being added to config
 ```
 
 6. introduce events
+
+7. introduce CLI
